@@ -1,5 +1,9 @@
 [English](/) | [Slovensky](/sk)
 
+<p align="center">
+  <img src="/images/profilovka.jpg" width="200" />
+</p>
+
 Hi, I am Martin and I like computers. My main interest are backend, low-level code and data engineering (and AI and ML that go with it)
 
 # Quick information
