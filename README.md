@@ -73,6 +73,8 @@ These are the skills that don't fit any of the other categories.
 I have worked on several interesting projects. These are my favorites.
 
 ## Unawakened
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) ![Android](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=white)
+
 Unawakened is a mobile roguelike endless runner game I developed with help of few of my friends in about two months.
 In its finished state game features progressively increasing difficulty, boss fight, power ups and various enemies
 and environmental obstacles.
@@ -80,26 +82,17 @@ and environmental obstacles.
 ### Gameplay video [Slovak]
 [![Unawakened Gameplay](https://img.youtube.com/vi/4rZf2CAveeY/0.jpg)](https://youtu.be/4rZf2CAveeY)
 
-### Technologies used
-- C#
-- Unity
-- Android
-
 [Repository link](https://github.com/MartinMis/Unawakened)
 
 ---
 
 ## DriverSearch
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-3776AB?logo=python&logoColor=white) ![PyLucene](https://img.shields.io/badge/PyLucene-000000?logoColor=white)
+
 DriverSearch is an information retrieval and data processing project whose aim was to create a search engine
 for racing car drivers. The project consists of 2 parts. The first part is a web scraper and data extractor
 that gets its information from [driverdb.com](https://www.driverdb.com/). The second part uses PySpark and 
 PyLucene to extend this scraped data by data on Wikipedia and create an index above it.
-
-### Technologies used
-- Python
-- PyLucene
-- PySpark
-- Request
 
 [Scraper and extractor repository link](https://github.com/MartinMis/DriverSearch-Crawler-Extractor)
 
@@ -108,15 +101,10 @@ PyLucene to extend this scraped data by data on Wikipedia and create an index ab
 ---
 
 ## Animal Classifier
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![WandB](https://img.shields.io/badge/WandB-FFBE00?logo=weightsandbiases&logoColor=black)
 
 A convolutional neural network based on AlexNet trained specifically to train classify the animals from
 the Animals-10 dataset.
-
-### Technologies used
-- Python
-- Jupyter Notebook
-- PyTorch
-- WandB
 
 [Repository link](https://github.com/MartinMis/Animal-Recognition-AI)
 

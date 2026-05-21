@@ -67,6 +67,8 @@ Zručnosti, ktoré nezapadajú do žiadnej z predchádzajúcich kategórií.
 Pracoval som na niekoľkých zaujímavých projektoch. Toto sú moje obľúbené.
 
 ## Unawakened
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) ![Android](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=white)
+
 Unawakened je mobilná roguelike hra v štýle endless runner, ktorú som vyvinul s pomocou niekoľkých priateľov
 za približne dva mesiace. V dokončenej podobe hra obsahuje postupne sa zvyšujúcu obťažnosť, súboj s bossom,
 power-upy, rôznych nepriateľov a prekážky v prostredí.
@@ -74,26 +76,18 @@ power-upy, rôznych nepriateľov a prekážky v prostredí.
 ### Video z hrania [slovensky]
 [![Unawakened Gameplay](https://img.youtube.com/vi/4rZf2CAveeY/0.jpg)](https://youtu.be/4rZf2CAveeY)
 
-### Použité technológie
-- C#
-- Unity
-- Android
 
 [Odkaz na repozitár](https://github.com/MartinMis/Unawakened)
 
 ---
 
 ## DriverSearch
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-3776AB?logo=python&logoColor=white) ![PyLucene](https://img.shields.io/badge/PyLucene-000000?logoColor=white)
+
 DriverSearch je projekt zameraný na vyhľadávanie informácií a spracovanie dát, ktorého cieľom bolo vytvoriť
 vyhľadávač pretekárskych jazdcov. Projekt pozostáva z 2 častí. Prvá časť je webový scraper a extraktor dát,
 ktorý získava informácie z [driverdb.com](https://www.driverdb.com/). Druhá časť využíva PySpark a PyLucene
 na rozšírenie získaných dát o údaje z Wikipédie a vytvorenie indexu nad nimi.
-
-### Použité technológie
-- Python
-- PyLucene
-- PySpark
-- Requests
 
 [Odkaz na repozitár scrapera a extraktora](https://github.com/MartinMis/DriverSearch-Crawler-Extractor)
 
@@ -102,15 +96,10 @@ na rozšírenie získaných dát o údaje z Wikipédie a vytvorenie indexu nad n
 ---
 
 ## Animal Classifier
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![WandB](https://img.shields.io/badge/WandB-FFBE00?logo=weightsandbiases&logoColor=black)
 
 Konvolučná neurónová sieť založená na architektúre AlexNet, natrénovaná špeciálne na klasifikáciu zvierat
 z datasetu Animals-10.
-
-### Použité technológie
-- Python
-- Jupyter Notebook
-- PyTorch
-- WandB
 
 [Odkaz na repozitár](https://github.com/MartinMis/Animal-Recognition-AI)
 
