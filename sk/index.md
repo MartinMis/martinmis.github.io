@@ -17,5 +17,5 @@ Od detstva ma zaujímali počítače, matematika a štatistika. Vždy som potreb
 
 To vo mne však vyvolalo ďalšiu otázku: ako tieto počítače vlastne fungujú? Záujem o čísla a túžba pochopiť, ako počítače vôbec vedia, čo s číslami robiť, formovali moju akademickú cestu.
 
-V súčasnosti som s vyznamenaním ukončil štúdium na Fakulte informatiky a informačných technológií Slovenskej technickej univerzity v Bratislave a získal titul bakalára. Čoskoro ho doplním titulom magistra so zameraním na dátovú vedu a umelú inteligenciu. Štúdium mi veľa dalo a teraz hľadám nové výzvy, ktoré posunú moje poznanie ešte ďalej.
+V súčasnosti som s vyznamenaním ukončil štúdium na Fakulte informatiky a informačných technológií Slovenskej technickej univerzity v Bratislave a získal titul bakalára. Čoskoro ho doplním titulom inžiniera so zameraním na dátovú vedu a umelú inteligenciu. Štúdium mi veľa dalo a teraz hľadám nové výzvy, ktoré posunú moje poznanie ešte ďalej.
 
