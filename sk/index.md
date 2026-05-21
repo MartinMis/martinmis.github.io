@@ -1,9 +1,5 @@
 [🇬🇧 English](/) | [🇸🇰 Slovensky](/sk)
 
-<p align="center">
-  <img src="/images/profilovka.jpg" width="200" />
-</p>
-
 Zdravím, moje meno je Martin a venujem sa počítačom. Moje hlavné záujmi sú backend, low-level kód a dátové inžinierstvo (vrátane AI a strojového učenia).
 
 # Rýchle informácie
@@ -66,3 +62,64 @@ Zručnosti, ktoré nezapadajú do žiadnej z predchádzajúcich kategórií.
 | Docker | Zdatný | Dockerizoval som niekoľko aplikácií, niektoré dokonca ako súčasť väčších docker-compose štruktúr |
 | Git | Základy | Ovládam commity, pull requesty a riešenie merge konfliktov |
 | Jira | Začiatočník | Poznám základy Jiry, ako je priraďovanie úloh, sledovanie času a podobne |
+
+# Zaujímavé projekty, na ktorých som pracoval
+Pracoval som na niekoľkých zaujímavých projektoch. Toto sú moje obľúbené.
+
+## Unawakened
+Unawakened je mobilná roguelike hra v štýle endless runner, ktorú som vyvinul s pomocou niekoľkých priateľov
+za približne dva mesiace. V dokončenej podobe hra obsahuje postupne sa zvyšujúcu obťažnosť, súboj s bossom,
+power-upy, rôznych nepriateľov a prekážky v prostredí.
+
+### Video z hrania [slovensky]
+[![Unawakened Gameplay](https://img.youtube.com/vi/4rZf2CAveeY/0.jpg)](https://youtu.be/4rZf2CAveeY)
+
+### Použité technológie
+- C#
+- Unity
+- Android
+
+[Odkaz na repozitár](https://github.com/MartinMis/Unawakened)
+
+---
+
+## DriverSearch
+DriverSearch je projekt zameraný na vyhľadávanie informácií a spracovanie dát, ktorého cieľom bolo vytvoriť
+vyhľadávač pretekárskych jazdcov. Projekt pozostáva z 2 častí. Prvá časť je webový scraper a extraktor dát,
+ktorý získava informácie z [driverdb.com](https://www.driverdb.com/). Druhá časť využíva PySpark a PyLucene
+na rozšírenie získaných dát o údaje z Wikipédie a vytvorenie indexu nad nimi.
+
+### Použité technológie
+- Python
+- PyLucene
+- PySpark
+- Requests
+
+[Odkaz na repozitár scrapera a extraktora](https://github.com/MartinMis/DriverSearch-Crawler-Extractor)
+
+[Odkaz na repozitár indexera a vyhľadávača](https://github.com/MartinMis/DriverSearch-Search)
+
+---
+
+## Animal Classifier
+
+Konvolučná neurónová sieť založená na architektúre AlexNet, natrénovaná špeciálne na klasifikáciu zvierat
+z datasetu Animals-10.
+
+### Použité technológie
+- Python
+- Jupyter Notebook
+- PyTorch
+- WandB
+
+[Odkaz na repozitár](https://github.com/MartinMis/Animal-Recognition-AI)
+
+---
+
+Na mojom [GitHube](https://github.com/MartinMis) nájdete mnoho ďalších projektov zameraných napríklad na
+[analýzu dát](https://github.com/MartinMis/Inteligentna-analyza-udajov),
+[objektovo orientované programovanie](https://github.com/MartinMis/Motodrazba),
+[sieťovú komunikáciu](https://github.com/MartinMis/UDP-Communicator),
+[API](https://github.com/MartinMis/SQL-API) a ďalšie.
+
+Niektoré projekty majú dokumentáciu iba v angličtine.

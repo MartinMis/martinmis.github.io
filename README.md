@@ -1,8 +1,4 @@
-[English](/) | [Slovensky](/sk)
-
-<p align="center">
-  <img src="/images/profilovka.jpg" width="200" />
-</p>
+[🇬🇧 English](/) | [🇸🇰 Slovensky](/sk)
 
 Hi, I am Martin and I like computers. My main interest are backend, low-level code and data engineering (and AI and ML that go with it)
 
@@ -13,7 +9,7 @@ Hi, I am Martin and I like computers. My main interest are backend, low-level co
 - **Languages:** fluent Slovak, Czech and English and I can get around in German
 
 # Contact
-- LinkedIn: https://www.linkedin.com/in/martin-mislovi%C4%8D-0b69b2271/
+- [LinkedIn](https://www.linkedin.com/in/martin-mislovi%C4%8D-0b69b2271/)
 - Email: martin.mislovic@gmail.com
 
 # About me
@@ -91,6 +87,8 @@ and environmental obstacles.
 
 [Repository link](https://github.com/MartinMis/Unawakened)
 
+---
+
 ## DriverSearch
 DriverSearch is an information retrieval and data processing project whose aim was to create a search engine
 for racing car drivers. The project consists of 2 parts. The first part is a web scraper and data extractor
@@ -103,4 +101,27 @@ PyLucene to extend this scraped data by data on Wikipedia and create an index ab
 - PySpark
 - Request
 
-[Repository link](https://github.com/MartinMis/Unawakened)
+[Scraper and extractor repository link](https://github.com/MartinMis/DriverSearch-Crawler-Extractor)
+
+[Indexer and searcher repository link](https://github.com/MartinMis/DriverSearch-Search)
+
+---
+
+## Animal Classifier
+
+A convolutional neural network based on AlexNet trained specifically to train classify the animals from
+the Animals-10 dataset.
+
+### Technologies used
+- Python
+- Jupyter Notebook
+- PyTorch
+- WandB
+
+[Repository link](https://github.com/MartinMis/Animal-Recognition-AI)
+
+---
+
+On my [GitHub](https://github.com/MartinMis) you can find many other projects focusing on topics such as [data analysis](https://github.com/MartinMis/Inteligentna-analyza-udajov), [object oriented programming](https://github.com/MartinMis/Motodrazba), [networking](https://github.com/MartinMis/UDP-Communicator), [APIs](https://github.com/MartinMis/SQL-API) and others.
+
+Note that some of the older project have documentation only in Slovak.
