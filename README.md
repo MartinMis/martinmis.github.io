@@ -91,3 +91,16 @@ and environmental obstacles.
 
 [Repository link](https://github.com/MartinMis/Unawakened)
 
+## DriverSearch
+DriverSearch is an information retrieval and data processing project whose aim was to create a search engine
+for racing car drivers. The project consists of 2 parts. The first part is a web scraper and data extractor
+that gets its information from [driverdb.com](https://www.driverdb.com/). The second part uses PySpark and 
+PyLucene to extend this scraped data by data on Wikipedia and create an index above it.
+
+### Technologies used
+- Python
+- PyLucene
+- PySpark
+- Request
+
+[Repository link](https://github.com/MartinMis/Unawakened)

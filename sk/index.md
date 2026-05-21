@@ -1,5 +1,9 @@
 [🇬🇧 English](/) | [🇸🇰 Slovensky](/sk)
 
+<p align="center">
+  <img src="/images/profilovka.jpg" width="200" />
+</p>
+
 Zdravím, moje meno je Martin a venujem sa počítačom. Moje hlavné záujmi sú backend, low-level kód a dátové inžinierstvo (vrátane AI a strojového učenia).
 
 # Rýchle informácie
