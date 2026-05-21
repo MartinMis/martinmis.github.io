@@ -19,8 +19,3 @@ To vo mne však vyvolalo ďalšiu otázku: ako tieto počítače vlastne funguj�
 
 V súčasnosti som s vyznamenaním ukončil štúdium na Fakulte informatiky a informačných technológií Slovenskej technickej univerzity v Bratislave a získal titul bakalára. Čoskoro ho doplním titulom magistra so zameraním na dátovú vedu a umelú inteligenciu. Štúdium mi veľa dalo a teraz hľadám nové výzvy, ktoré posunú moje poznanie ešte ďalej.
 
-# Životopis
-Na tejto stránke nájdete takmer všetko čo je v mojom životopise, ak si ho však napriek tomu chcete stiahnuť
-nájdete ho na nasledovných odkazoch:
-- [Všeobecný životopis](/files/CV_SK_General.pdf)
-- [Životopis so znalosťami pre dátovú vedu](/files/CV_SK_DataScience.pdf))

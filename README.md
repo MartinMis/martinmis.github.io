@@ -1,19 +1,18 @@
 [English](/) | [Slovensky](/sk)
 
-# Martin Mislovič
 Hi, I am Martin and I like computers. My main interest are backend, low-level code and data engineering (and AI and ML that go with it)
 
-## Quick information
+# Quick information
 - **Main areas of expertise:** Data engineering, ML/AI, Low-level programming
 - **Highest achieved education:** Bachelors degree
 - **Age:** 24
 - **Languages:** fluent Slovak, Czech and English and I can get around in German
 
-## Contact
+# Contact
 - LinkedIn: https://www.linkedin.com/in/martin-mislovi%C4%8D-0b69b2271/
 - Email: martin.mislovic@gmail.com
 
-## About me
+# About me
 I have had an interest in computers, math and statistics since I was a child. I always needed to know what is the 
 tallest mountain in the area, how many people live in this village and so on. Later in life I discovered I am 
 quite decent at math and that I can use the computer to get many of the numbers and statistics I wanted to know.
@@ -25,52 +24,66 @@ Technical University in Bratislava with Bachelors degree, which will soon be fol
 on data science and AI. My studies gave me much and now I am seeking new challanges to push my understanding
 even further.
 
-## Skills
-### Data engineering related
+# CV
+If you still want to know more about me you can get my CV on the following links:
+- [General CV](/files/CV_EN_General_Censored.pdf)
+- [Data science details CV](/files/CV_EN_DataScience_Censored.pdf)
+
+If you want my CV in Slovak, you can find it on the Slovak version of this page, which can be accesed by
+the swith on top.
+
+# Skills
+## Data engineering related
 These are skills more closely related to the data engineering (even though Python could also be categorized as backend skill).
 
 | Skill | Level | Note |
 |-------|-------|------|
 | Python | Advanced | I have been programming in Python since high school and I am familiar even with some of its less popular features |
 | SQL | Advanced | I am familiar with joins, agregate functions and window functions |
-| R | Skillful | |
-| PyTorch | Basic | |
-| PySpark | Basic | |
-| Pandas | Basic | |
-| Scikit-learn | Basic | |
+| R | Skillful | I am familiar with R as well as its tidyverse series of libraries |
+| PyTorch | Basic | I implemented and trained severla neurla networks in PyTorch |
+| PySpark | Basic | I succesfully extracted data from all of Wikipedia using PySpark |
+| Pandas | Basic | I used Pandas in various data processing project |
+| Scikit-learn | Basic | I used scikit-learn to train several simple models |
 
-### Low-level and backend development
-
-| Skill | Level | Note |
-|-------|-------|------|
-| C | Advanced | |
-| C++ | Skillful | |
-| C# | Basic | |
-| Java | Basic | |
-| JavaScript | Basic | |
-
-### Other skills
+## Low-level and backend development
+These are the skills more closely related to low-level development and backend development (other than the Python
+mentioned earlier).
 
 | Skill | Level | Note |
 |-------|-------|------|
-| FastAPI | Basic |  |
-| Linux | Skillful | |
-| Docker | Skillful | |
-| Git | Basic | |
-| Jira | Begginer | |
+| C | Advanced | Both my Bachelor's and Master's thesis were written mostly in C |
+| C++ | Skillful | I did an modern C++ course led by developers from ESET |
+| C# | Basic | I developed a game using C# |
+| Java | Basic | I learned the basics of OOP and SOLID using JAVA |
+| JavaScript | Basic | I can use JavaScript when I need to |
 
-## Interesting projects I have worked on
+## Other skills
+These are the skills that don't fit any of the other categories.
+
+| Skill | Level | Note |
+|-------|-------|------|
+| FastAPI | Basic | I developed APIs both as part of my Bachelor's studies as well as for my Master's thesis |
+| Linux | Skillful | I have used Linux daily for several years both on a desktop computer as well as VPS and Raspberry Pi |
+| Docker | Skillful | I dockerized several aplications, some even part of larger docker-compose structures |
+| Git | Basic | I can use commits, pull request and solve merge conflicts |
+| Jira | Begginer | I am familiar with the basics of Jira such as assigning tasks, tracking time and so on |
+
+# Interesting projects I have worked on
 I have worked on several interesting projects. These are my favorites.
 
-### Unawakened
+## Unawakened
 Unawakened is a mobile roguelike endless runner game I developed with help of few of my friends in about two months.
 In its finished state game features progressively increasing difficulty, boss fight, power ups and various enemies
 and environmental obstacles.
 
-#### Technologies used
+### Gameplay video [Slovak]
+[![Unawakened Gameplay](https://img.youtube.com/vi/4rZf2CAveeY/0.jpg)](https://youtu.be/4rZf2CAveeY)
+
+### Technologies used
 - C#
 - Unity
 - Android
 
-#### Repository link
-https://github.com/MartinMis/Unawakened
+[Repository link](https://github.com/MartinMis/Unawakened)
+
