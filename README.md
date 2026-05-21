@@ -40,6 +40,7 @@ These are skills more closely related to the data engineering (even though Pytho
 | Scikit-learn | Basic | |
 
 ### Low-level and backend development
+
 | Skill | Level | Note |
 |-------|-------|------|
 | C | Advanced | |
@@ -49,6 +50,7 @@ These are skills more closely related to the data engineering (even though Pytho
 | JavaScript | Basic | |
 
 ### Other skills
+
 | Skill | Level | Note |
 |-------|-------|------|
 | FastAPI | Basic |  |
