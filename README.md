@@ -1,3 +1,5 @@
+[English](/) | [Slovensky](/sk)
+
 # Martin Mislovič
 Hi, I am Martin and I like computers. My main interest are backend, low-level code and data engineering (and AI and ML that go with it)
 
