@@ -22,5 +22,5 @@ V súčasnosti som s vyznamenaním ukončil štúdium na Fakulte informatiky a i
 # Životopis
 Na tejto stránke nájdete takmer všetko čo je v mojom životopise, ak si ho však napriek tomu chcete stiahnuť
 nájdete ho na nasledovných odkazoch:
-- [Všeobecný životopis](files/CV_SK_General.pdf)
-- [Životopis so znalosťami pre dátovú vedu](files/CV_SK_DataScience.pdf))
+- [Všeobecný životopis](/files/CV_SK_General.pdf)
+- [Životopis so znalosťami pre dátovú vedu](/files/CV_SK_DataScience.pdf))
