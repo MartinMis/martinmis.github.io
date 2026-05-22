@@ -2,11 +2,66 @@
 
 Zdravím, moje meno je Martin a venujem sa počítačom. Moje hlavné záujmi sú backend, low-level kód a dátové inžinierstvo (vrátane AI a strojového učenia).
 
+
 # Rýchle informácie
 - **Hlavná oblasť expertízi:** Dátové inžinierstvo, strojové učenie / umelá inteligencia, Low-level programovanie
 - **Najvyššie dosiahnuté vzdelanie:** Bakalársky titul z informatiky
 - **Vek:** 24
 - **Jazyky:** plynulá Slovenčina, Čeština a Angličtina ale dohovorím sa i po Nemecky
+
+# Časová os môjho štúdia
+
+<style>
+.timeline {
+  position: relative;
+  padding: 0;
+  list-style: none;
+}
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 8px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: #157878; /* Cayman theme green */
+}
+.timeline li {
+  position: relative;
+  margin: 0 0 2rem 2rem;
+}
+.timeline li::before {
+  content: '';
+  position: absolute;
+  left: -1.8rem;
+  top: 6px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #157878;
+}
+.timeline .date {
+  font-size: 0.85rem;
+  color: #888;
+  margin-bottom: 0.2rem;
+}
+.timeline h3 {
+  margin: 0 0 0.3rem;
+}
+</style>
+
+<ul class="timeline">
+  <li>
+    <div class="date">2024 – Dnes</div>
+    <h3>Inžinier — Dátová veda & AI</h3>
+    <p>Fakulta Informatiky a Informačných Technológií, STU Bratislava</p>
+  </li>
+  <li>
+    <div class="date">2021 – 2024</div>
+    <h3>Bakalár — Informatika (s vyznamenaním)</h3>
+    <p>Fakulta Informatiky a Informačných Technológií STU Bratislava</p>
+  </li>
+</ul>
 
 # Kontakt
 - [LinkedIn](https://www.linkedin.com/in/martin-mislovi%C4%8D-0b69b2271/)

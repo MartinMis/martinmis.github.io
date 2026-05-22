@@ -8,6 +8,60 @@ Hi, I am Martin and I like computers. My main interest are backend, low-level co
 - **Age:** 24
 - **Languages:** fluent Slovak, Czech and English and I can get around in German
 
+# Timeline of my studies
+
+<style>
+.timeline {
+  position: relative;
+  padding: 0;
+  list-style: none;
+}
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 8px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: #157878; /* Cayman theme green */
+}
+.timeline li {
+  position: relative;
+  margin: 0 0 2rem 2rem;
+}
+.timeline li::before {
+  content: '';
+  position: absolute;
+  left: -1.8rem;
+  top: 6px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #157878;
+}
+.timeline .date {
+  font-size: 0.85rem;
+  color: #888;
+  margin-bottom: 0.2rem;
+}
+.timeline h3 {
+  margin: 0 0 0.3rem;
+}
+</style>
+
+<ul class="timeline">
+  <li>
+    <div class="date">2024 – Present</div>
+    <h3>Master's Degree — Data Science & AI</h3>
+    <p>Faculty of Informatics and Information Sciences, STU Bratislava</p>
+  </li>
+  <li>
+    <div class="date">2021 – 2024</div>
+    <h3>Bachelor's Degree — Informatics (with Honours)</h3>
+    <p>Faculty of Informatics and Information Sciences, STU Bratislava</p>
+  </li>
+</ul>
+
 # Contact
 - [LinkedIn](https://www.linkedin.com/in/martin-mislovi%C4%8D-0b69b2271/)
 - Email: martin.mislovic@gmail.com
