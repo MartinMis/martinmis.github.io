@@ -38,13 +38,13 @@ These are skills more closely related to the data engineering (even though Pytho
 
 | Skill | Level | Note |
 |-------|-------|------|
-| Python | Advanced | I have been programming in Python since high school and I am familiar even with some of its less popular features |
-| SQL | Advanced | I am familiar with joins, agregate functions and window functions |
-| R | Skillful | I am familiar with R as well as its tidyverse series of libraries |
-| PyTorch | Basic | I implemented and trained severla neurla networks in PyTorch |
-| PySpark | Basic | I succesfully extracted data from all of Wikipedia using PySpark |
-| Pandas | Basic | I used Pandas in various data processing project |
-| Scikit-learn | Basic | I used scikit-learn to train several simple models |
+| **Python** | *Advanced* | I have been programming in Python since high school and I am familiar even with some of its less popular features |
+| **SQL** | *Advanced* | I am familiar with joins, agregate functions and window functions |
+| **R** | *Skillful* | I am familiar with R as well as its tidyverse series of libraries |
+| **PyTorch** | *Basic* | I implemented and trained severla neurla networks in PyTorch |
+| **PySpark** | *Basic* | I succesfully extracted data from all of Wikipedia using PySpark |
+| **Pandas** | *Basic* | I used Pandas in various data processing project |
+| **Scikit-learn** | *Basic* | I used scikit-learn to train several simple models |
 
 ## Low-level and backend development
 These are the skills more closely related to low-level development and backend development (other than the Python
@@ -52,22 +52,22 @@ mentioned earlier).
 
 | Skill | Level | Note |
 |-------|-------|------|
-| C | Advanced | Both my Bachelor's and Master's thesis were written mostly in C |
-| C++ | Skillful | I did an modern C++ course led by developers from ESET |
-| C# | Basic | I developed a game using C# |
-| Java | Basic | I learned the basics of OOP and SOLID using JAVA |
-| JavaScript | Basic | I can use JavaScript when I need to |
+| **C** | *Advanced* | Both my Bachelor's and Master's thesis were written mostly in C |
+| **C++** | *Skillful* | I did an modern C++ course led by developers from ESET |
+| **C#** | *Basic* | I developed a game using C# |
+| **Java** | *Basic* | I learned the basics of OOP and SOLID using JAVA |
+| **JavaScript** | *Basic* | I can use JavaScript when I need to |
 
 ## Other skills
 These are the skills that don't fit any of the other categories.
 
 | Skill | Level | Note |
 |-------|-------|------|
-| FastAPI | Basic | I developed APIs both as part of my Bachelor's studies as well as for my Master's thesis |
-| Linux | Skillful | I have used Linux daily for several years both on a desktop computer as well as VPS and Raspberry Pi |
-| Docker | Skillful | I dockerized several aplications, some even part of larger docker-compose structures |
-| Git | Basic | I can use commits, pull request and solve merge conflicts |
-| Jira | Begginer | I am familiar with the basics of Jira such as assigning tasks, tracking time and so on |
+| **FastAPI** | *Basic* | I developed APIs both as part of my Bachelor's studies as well as for my Master's thesis |
+| **Linux** | *Skillful* | I have used Linux daily for several years both on a desktop computer as well as VPS and Raspberry Pi |
+| **Docker** | *Skillful* | I dockerized several aplications, some even part of larger docker-compose structures |
+| **Git** | *Basic* | I can use commits, pull request and solve merge conflicts |
+| **Jira** | *Begginer* | I am familiar with the basics of Jira such as assigning tasks, tracking time and so on |
 
 # Interesting projects I have worked on
 I have worked on several interesting projects. These are my favorites.

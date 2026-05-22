@@ -9,7 +9,7 @@ Zdravím, moje meno je Martin a venujem sa počítačom. Moje hlavné záujmi s�
 - **Jazyky:** plynulá Slovenčina, Čeština a Angličtina ale dohovorím sa i po Nemecky
 
 # Kontakt
-- **LinkedIn:** https://www.linkedin.com/in/martin-mislovi%C4%8D-0b69b2271/
+- [LinkedIn](https://www.linkedin.com/in/martin-mislovi%C4%8D-0b69b2271/)
 - **Email:** martin.mislovic@gmail.com
 
 # O mne
@@ -33,35 +33,35 @@ Tieto zručnosti súvisia najmä s dátovým inžinierstvom (hoci Python by sa d
 
 | Zručnosť | Úroveň | Poznámka |
 |----------|--------|----------|
-| Python | Pokročilý | Python programujem od strednej školy a ovládam aj niektoré jeho menej známe vlastnosti |
-| SQL | Pokročilý | Ovládam joiny, agregačné funkcie a okenné funkcie |
-| R | Zdatný | Poznám R aj jeho knižnice zo série tidyverse |
-| PyTorch | Základy | V PyTorchi som implementoval a natrénoval niekoľko neurónových sietí |
-| PySpark | Základy | Pomocou PySparku som úspešne extrahoval dáta z celej Wikipédie |
-| Pandas | Základy | Pandas som využíval v rôznych projektoch spracovania dát |
-| Scikit-learn | Základy | Pomocou scikit-learn som natrénoval niekoľko jednoduchých modelov |
+| **Python** | *Pokročilý* | Python programujem od strednej školy a ovládam aj niektoré jeho menej známe vlastnosti |
+| **SQL** | *Pokročilý* | Ovládam joiny, agregačné funkcie a okenné funkcie |
+| **R** | *Mierne pokročilý*  | Poznám R aj jeho knižnice zo série tidyverse |
+| **PyTorch** | *Základy* | V PyTorchi som implementoval a natrénoval niekoľko neurónových sietí |
+| **PySpark** | *Základy* | Pomocou PySparku som úspešne extrahoval dáta z celej Wikipédie |
+| **Pandas** | *Základy* | Pandas som využíval v rôznych projektoch spracovania dát |
+| **Scikit-learn** | *Základy* | Pomocou scikit-learn som natrénoval niekoľko jednoduchých modelov |
 
 ## Nízkoúrovňový a backendový vývoj
 Tieto zručnosti súvisia najmä s nízkoúrovňovým a backendovým vývojom (okrem vyššie spomenutého Pythonu).
 
 | Zručnosť | Úroveň | Poznámka |
 |----------|--------|----------|
-| C | Pokročilý | Moja bakalárska aj diplomová práca sú napísané prevažne v jazyku C |
-| C++ | Zdatný | Absolvoval som kurz moderného C++ vedený vývojármi zo spoločnosti ESET |
-| C# | Základy | Vyvinul som hru v C# |
-| Java | Základy | Základy OOP a princípov SOLID som sa naučil v Jave |
-| JavaScript | Základy | JavaScript viem použiť, keď je to potrebné |
+| **C** | *Pokročilý* | Moja bakalárska aj diplomová práca sú napísané prevažne v jazyku C |
+| **C++** | *Mierne pokročilý* | Absolvoval som kurz moderného C++ vedený vývojármi zo spoločnosti ESET |
+| **C#** | *Základy* | Vyvinul som hru v C# |
+| **Java** | *Základy* | Základy OOP a princípov SOLID som sa naučil v Jave |
+| **JavaScript** | *Základy* | JavaScript viem použiť, keď je to potrebné |
 
 ## Ostatné zručnosti
 Zručnosti, ktoré nezapadajú do žiadnej z predchádzajúcich kategórií.
 
 | Zručnosť | Úroveň | Poznámka |
 |----------|--------|----------|
-| FastAPI | Základy | API som vyvíjal ako súčasť bakalárskeho štúdia aj pre svoju diplomovú prácu |
-| Linux | Zdatný | Linux používam denne už niekoľko rokov, a to na stolnom počítači, VPS aj Raspberry Pi |
-| Docker | Zdatný | Dockerizoval som niekoľko aplikácií, niektoré dokonca ako súčasť väčších docker-compose štruktúr |
-| Git | Základy | Ovládam commity, pull requesty a riešenie merge konfliktov |
-| Jira | Začiatočník | Poznám základy Jiry, ako je priraďovanie úloh, sledovanie času a podobne |
+| **FastAPI** | *Základy* | API som vyvíjal ako súčasť bakalárskeho štúdia aj pre svoju diplomovú prácu |
+| **Linux** | *Mierne pokročilý* | Linux používam denne už niekoľko rokov, a to na stolnom počítači, VPS aj Raspberry Pi |
+| **Docker** | *Mierne pokročilý*  | Dockerizoval som niekoľko aplikácií, niektoré dokonca ako súčasť väčších docker-compose štruktúr |
+| **Git** | *Základy* | Ovládam commity, pull requesty a riešenie merge konfliktov |
+| **Jira** | *Začiatočník* | Poznám základy Jiry, ako je priraďovanie úloh, sledovanie času a podobne |
 
 # Zaujímavé projekty, na ktorých som pracoval
 Pracoval som na niekoľkých zaujímavých projektoch. Toto sú moje obľúbené.
