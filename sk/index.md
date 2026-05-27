@@ -75,7 +75,7 @@ To vo mne však vyvolalo ďalšiu otázku: ako tieto počítače vlastne funguj�
 V súčasnosti som už s vyznamenaním ukončil prvý stupeň štúdia na Fakulte informatiky a informačných technológií Slovenskej technickej univerzity v Bratislave a získal titul bakalára. V najbližších dňoch ho doplním titulom inžiniera so zameraním na dátovú vedu a umelú inteligenciu. Štúdium mi  dalo veľa a teraz hľadám nové výzvy, ktoré posunú moje poznanie ešte ďalej.
 
 # Životopis
-Ak sa chcete dozvedieť viac, môj životopis nájdete na nasledujúcich odkazoch:
+Ak sa chcete dozvedieť viac, môj životopis nájdete na nasledujúcom odkaze:
 - [Stiahnuť životopis](/files/Zivotopis.pdf)
 
 Ak preferujete životopis v angličtine, nájdete ho na anglickej verzii tejto stránky,
