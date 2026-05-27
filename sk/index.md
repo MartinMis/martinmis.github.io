@@ -114,7 +114,7 @@ Zručnosti, ktoré nezapadajú do žiadnej z predchádzajúcich kategórií.
 | **FastAPI** | *Základy* | API som vyvíjal ako súčasť bakalárskeho štúdia aj pre svoju diplomovú prácu |
 | **Linux** | *Mierne pokročilý* | Linux používam v nejakej forme už niekoľko rokov, a to na stolnom počítači, VPS alebo aj Raspberry Pi |
 | **Docker** | *Mierne pokročilý*  | Dockerizoval som niekoľko aplikácií, niektoré dokonca ako súčasť väčších docker-compose štruktúr |
-| **Git** | *Základy* | Ovládam commity, pull requesty a riešenie merge konfliktov |
+| **Git** | *Mierne pokročilý* | Ovládam commity, pull requesty a riešenie merge konfliktov |
 | **Jira** | *Začiatočník* | Poznám základy Jiry, ako je priraďovanie úloh, sledovanie času a podobne |
 
 # Zaujímavé projekty, na ktorých som pracoval

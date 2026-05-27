@@ -120,7 +120,7 @@ These are the skills that don't fit any of the other categories.
 | **FastAPI** | *Basic* | I developed APIs both as part of my Bachelor's studies as well as for my Master's thesis |
 | **Linux** | *Skillful* | I have used Linux daily for several years both on a desktop computer as well as VPS and Raspberry Pi |
 | **Docker** | *Skillful* | I dockerized several aplications, some even part of larger docker-compose structures |
-| **Git** | *Basic* | I can use commits, pull request and solve merge conflicts |
+| **Git** | *Skillful* | I can use commits, pull request and solve merge conflicts |
 | **Jira** | *Begginer* | I am familiar with the basics of Jira such as assigning tasks, tracking time and so on |
 
 # Interesting projects I have worked on
