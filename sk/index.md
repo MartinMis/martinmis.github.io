@@ -76,8 +76,7 @@ V súčasnosti som už s vyznamenaním ukončil prvý stupeň štúdia na Fakult
 
 # Životopis
 Ak sa chcete dozvedieť viac, môj životopis nájdete na nasledujúcich odkazoch:
-- [Všeobecný životopis](/files/CV_SK_General_Censored.pdf)
-- [Životopis so zameraním na dátovú vedu](/files/CV_SK_DataScience_Censored.pdf)
+- [Stiahnuť životopis](/files/Zivotopis.pdf)
 
 Ak preferujete životopis v angličtine, nájdete ho na anglickej verzii tejto stránky,
 ktorú môžete otvoriť pomocou prepínača v hornej časti.
@@ -160,10 +159,11 @@ z datasetu Animals-10.
 
 ---
 
-Na mojom [GitHube](https://github.com/MartinMis) nájdete mnoho ďalších projektov zameraných napríklad na
-[analýzu dát](https://github.com/MartinMis/Inteligentna-analyza-udajov),
-[objektovo orientované programovanie](https://github.com/MartinMis/Motodrazba),
-[sieťovú komunikáciu](https://github.com/MartinMis/UDP-Communicator),
-[API](https://github.com/MartinMis/SQL-API) a ďalšie.
+Na mojom [GitHube](https://github.com/MartinMis) nájdete mnoho ďalších projektov zameraných napríklad na:
+- [Analýzu dát](https://github.com/MartinMis/Inteligentna-analyza-udajov),
+- [Objektovo orientované programovanie](https://github.com/MartinMis/Motodrazba),
+- [Sieťovú komunikáciu](https://github.com/MartinMis/UDP-Communicator),
+- [API](https://github.com/MartinMis/SQL-API) 
+- a ďalšie
 
 Niektoré projekty majú dokumentáciu iba v angličtine.

@@ -79,12 +79,12 @@ on data science and AI. My studies gave me much and now I am seeking new challan
 even further.
 
 # CV
-If you still want to know more about me you can get my CV on the following links:
-- [General CV](/files/CV_EN_General_Censored.pdf)
-- [Data science details CV](/files/CV_EN_DataScience_Censored.pdf)
+If you still want to know more about me you can get my CV on the following link:
+- [CV Download](/files/Zivotopis_EN)
 
 If you want my CV in Slovak, you can find it on the Slovak version of this page, which can be accesed by
 the swith on top.
+
 
 # Skills
 ## Data engineering related
@@ -95,7 +95,7 @@ These are skills more closely related to the data engineering (even though Pytho
 | **Python** | *Advanced* | I have been programming in Python since high school and I am familiar even with some of its less popular features |
 | **SQL** | *Advanced* | I am familiar with joins, agregate functions and window functions |
 | **R** | *Skillful* | I am familiar with R as well as its tidyverse series of libraries |
-| **PyTorch** | *Basic* | I implemented and trained severla neurla networks in PyTorch |
+| **PyTorch** | *Basic* | I implemented and trained several neural networks in PyTorch |
 | **PySpark** | *Basic* | I succesfully extracted data from all of Wikipedia using PySpark |
 | **Pandas** | *Basic* | I used Pandas in various data processing project |
 | **Scikit-learn** | *Basic* | I used scikit-learn to train several simple models |
@@ -164,6 +164,11 @@ the Animals-10 dataset.
 
 ---
 
-On my [GitHub](https://github.com/MartinMis) you can find many other projects focusing on topics such as [data analysis](https://github.com/MartinMis/Inteligentna-analyza-udajov), [object oriented programming](https://github.com/MartinMis/Motodrazba), [networking](https://github.com/MartinMis/UDP-Communicator), [APIs](https://github.com/MartinMis/SQL-API) and others.
+On my [GitHub](https://github.com/MartinMis) you can find many other projects focusing on topics such as:
+- [Data analysis](https://github.com/MartinMis/Inteligentna-analyza-udajov)
+- [Object oriented programming](https://github.com/MartinMis/Motodrazba)
+- [Networking](https://github.com/MartinMis/UDP-Communicator)
+- [APIs](https://github.com/MartinMis/SQL-API) 
+- and others
 
 Note that some of the older project have documentation only in Slovak.
