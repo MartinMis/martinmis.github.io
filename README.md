@@ -80,7 +80,7 @@ even further.
 
 # CV
 If you still want to know more about me you can get my CV on the following link:
-- [CV Download](/files/Zivotopis_EN)
+- [CV Download](/files/Zivotopis_EN.pdf)
 
 If you want my CV in Slovak, you can find it on the Slovak version of this page, which can be accesed by
 the swith on top.
