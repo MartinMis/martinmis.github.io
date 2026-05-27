@@ -134,6 +134,8 @@ In its finished state game features progressively increasing difficulty, boss fi
 and environmental obstacles.
 
 ### Gameplay video [Slovak]
+Video introducing the game made by another team member.
+
 [![Unawakened Gameplay](https://img.youtube.com/vi/4rZf2CAveeY/0.jpg)](https://youtu.be/4rZf2CAveeY)
 
 [Repository link](https://github.com/MartinMis/Unawakened)

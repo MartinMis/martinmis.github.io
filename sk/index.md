@@ -128,6 +128,8 @@ za približne dva mesiace. V dokončenej podobe hra obsahuje postupne sa zvyšuj
 power-upy, rôznych nepriateľov a prekážky v prostredí.
 
 ### Video z hrania [slovensky]
+Video predstavujúce hru natočené tímovým kolegom.
+
 [![Unawakened Gameplay](https://img.youtube.com/vi/4rZf2CAveeY/0.jpg)](https://youtu.be/4rZf2CAveeY)
 
 
