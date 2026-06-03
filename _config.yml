@@ -1,5 +1,8 @@
 remote_theme: pages-themes/cayman@v0.2.0
-description: [Programmer - Data enthusiast - (soon to be) Engineer / Programátor - Nadšenec pre dáta - (čoskoro) Inžinier]
+description:
+  [
+    Programmer - Data enthusiast - Engineer / Programátor - Nadšenec pre dáta - Inžinier,
+  ]
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 logo: /images/profilovka.jpg

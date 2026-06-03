@@ -4,7 +4,7 @@ Hi, I am Martin and I like computers. My main interest are backend, low-level co
 
 # Quick information
 - **Main areas of expertise:** Data engineering, ML/AI, Low-level programming
-- **Highest achieved education:** Bachelors degree
+- **Highest achieved education:** Masters degree
 - **Age:** 24
 - **Languages:** fluent Slovak, Czech and English and I can get around in German
 

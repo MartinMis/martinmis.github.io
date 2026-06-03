@@ -5,7 +5,7 @@ Zdravím, moje meno je Martin a venujem sa počítačom. Moje hlavné záujmi s�
 
 # Rýchle informácie
 - **Hlavná oblasť expertízi:** Dátové inžinierstvo, strojové učenie / umelá inteligencia, Low-level programovanie
-- **Najvyššie dosiahnuté vzdelanie:** Bakalársky titul z informatiky
+- **Najvyššie dosiahnuté vzdelanie:** Inžiniersky titul z informatiky
 - **Vek:** 24
 - **Jazyky:** plynulá Slovenčina, Čeština a Angličtina ale dohovorím sa i po Nemecky
 
